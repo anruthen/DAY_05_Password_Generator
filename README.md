@@ -18,3 +18,9 @@ How many symbols would you like?<br>
 How many numbers would you like?<br>
 2<br>
 Your new password: 8(FFV2Qd%fJeluBo
+
+## Skills Learned
+- Using `for` loops with `range()`
+- Combining lists with `+` and `random.shuffle()`
+- Converting lists to strings using `"".join()`
+- Input handling and basic validation
